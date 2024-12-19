@@ -9,6 +9,8 @@ int main(){
 
     cout<<"burger"<<endl;
 
+    cout<<"pizza"<<endl;
+
 
     return 0;
 }
